@@ -1,0 +1,22 @@
+{
+    "namespace": "test-scaffold",
+    "name": "Test Scaffold",
+    "description": "A Conduit component for test-scaffold functionality",
+    "version": "1.0.0",
+    "commands": [
+        "init"
+    ],
+    "min_conduit_version": "2.0.0",
+    "dependencies": [],
+    "tags": [
+        "conduit",
+        "cli"
+    ],
+    "author": {
+        "name": "Jordan Partridge",
+        "email": "jordan@partridge.rocks"
+    },
+    "homepage": "https://github.com/jordanpartridge/conduit-test-scaffold",
+    "repository": "https://github.com/jordanpartridge/conduit-test-scaffold",
+    "license": "MIT"
+}
